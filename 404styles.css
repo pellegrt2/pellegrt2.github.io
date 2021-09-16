@@ -1,0 +1,17 @@
+body{
+  background:url('https://cdn.glitch.com/007efd04-2926-40d9-b151-9e8ddfa8b9b6%2FArtboard%201.png?v=1631751878433') #340068;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+h1{
+  color:#FFFF1A;
+  font-size:100px;
+}
+
+main{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  transform:translate(0,42vw);
+}
