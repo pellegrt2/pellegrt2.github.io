@@ -8,7 +8,10 @@ h1{
   color:#FFFF1A;
   font-size:100px;
 }
-
+h2{
+   color:#FFFF1A;
+   font-size 30px;
+}
 main{
   display:flex;
   flex-direction:column;
